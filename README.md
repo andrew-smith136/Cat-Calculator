@@ -1,2 +1,2 @@
 # Cat-Calculator
-A simple calculator for everbody.
+A simple calculator for everybody.
